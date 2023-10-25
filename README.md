@@ -23,3 +23,7 @@ base64 -w 0 certificate.crt > certificate.crt.base64
 ```
 
 ## Store the base64 string into Github's Secrets
+![image](https://github.com/acn-zhao/sample-actions-secrets/assets/148947221/e79e6bee-d08c-4384-ae2a-feb2088f03f7)
+![image](https://github.com/acn-zhao/sample-actions-secrets/assets/148947221/54c2e99d-c666-4821-a01e-c2421ee23788)
+
+
